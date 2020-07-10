@@ -1,5 +1,5 @@
 # Hortisorty
-A Horticrafting Station sorter for Path of Exile! Made by Skullfurious with support from Nou from the AHK discord!
+A Horticrafting Station sorter for Path of Exile! Made by Skullfurious with tons of support from Nou from the AHK discord!
 
 # Requirements
 
