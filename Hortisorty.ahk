@@ -245,7 +245,7 @@ SortData()
       augment.push([tag,level,price])
     }
 
-    if (type == "Remove")
+    if (type == "Remove") and (non < 1)
     {
       IniRead, price, %A_MyDocuments%\AutoHotKey\Hortisorty\config.ini, % type, % tag
       remove.push([tag,level,price])
