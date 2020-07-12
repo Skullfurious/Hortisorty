@@ -3,6 +3,8 @@ A Horticrafting Station sorter for Path of Exile! Made by Skullfurious with tons
 
 ![Showcase](https://i.imgur.com/rWCzw8V.png)
 
+Example: https://docs.google.com/spreadsheets/d/1aZ5_OCspXNpZV_AAIIbWqlCT3EM0iR52WqINI1M6LJA/edit?usp=sharing
+
 # Requirements
 
 1. Horticraft Stations in a stash tab.
