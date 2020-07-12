@@ -9,6 +9,7 @@ Example: https://docs.google.com/spreadsheets/d/1aZ5_OCspXNpZV_AAIIbWqlCT3EM0iR5
 
 1. Horticraft Stations in a stash tab.
 2. AutoHotKey which can be downloaded here: https://www.autohotkey.com/
+3. Make sure you get 1.1.32.00 or later.
 
 # How to setup
 
